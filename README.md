@@ -1,3 +1,3 @@
 # DrawSolve
 
-DrawSolve Official Website repositiory.
+DrawSolve Official Website repository.
